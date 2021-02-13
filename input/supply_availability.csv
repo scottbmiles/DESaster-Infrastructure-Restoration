@@ -1,0 +1,5 @@
+supply name,inside_no,inside_shipping_time,inside_cost,outside_no,outside_shipping_time,outside_cost
+hv_sub,3,0,0,1000,60,850
+lv_sub,7,0,0,1000,40,350
+hv_tran,5,0,0,1000,30,220
+lv_tran,12,0,0,1000,30,200

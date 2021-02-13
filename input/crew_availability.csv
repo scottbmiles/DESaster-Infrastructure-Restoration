@@ -1,0 +1,7 @@
+time,mean,sd,distribution
+0,100,0,uniform
+10,200,0,uniform
+20,250,0,uniform
+40,160,0,uniform
+50,130,0,uniform
+60,100,0,uniform
